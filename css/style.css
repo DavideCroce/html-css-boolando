@@ -47,27 +47,33 @@ article{
 
 .guess{
     background-size: cover;
-    background-image: url(../img/2.webp)
+    background-image: url(../img/2.webp);
+    height: 600px;
 }
 
 .sugar{
     background-size: cover;
-    background-image: url(../img/3.webp)
+    background-image: url(../img/3.webp);
+    height: 600px;
 }
 
 .levis-tee{
     background-size: cover;
-    background-image: url(../img/4.webp)
+    background-image: url(../img/4.webp);
+    height: 600px;
 }
 
 .maya{
     background-size: cover;
-    background-image: url(../img/5.webp)
+    background-image: url(../img/5.webp);
+    height: 600px;
 }
 
 .esprit{
     background-size: cover;
-    background-image: url(../img/6.webp)
+    background-image: url(../img/6.webp);
+    height: 600px;
+    
 }
 
 /* hovers */
