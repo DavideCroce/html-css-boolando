@@ -34,7 +34,7 @@ article{
     display: inline-block;
     background-color: lightgray;
     vertical-align: bottom;
-    cursor: p;
+    cursor: pointer;
     position: relative;
 }
 
